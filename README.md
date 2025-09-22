@@ -62,5 +62,5 @@ pip install -r requirements.txt
 
 4. Run the Jupyter Notebook
 ```bash
-jupyter notebook notebooks/nlp_sentiment_analysis.ipynb
+jupyter notebook nlp_sentiment_analysis.ipynb
 ```
