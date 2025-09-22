@@ -17,19 +17,6 @@ This project classifies sentiment in financial news using NLP techniques. It com
 
 ---
 
-## Directory Structure
-nlp-sentiment-analysis/
-├── nlp_sentiment_analysis.ipynb
-├── report/
-│   └── report.pdf
-├── .gitignore
-├── Sentences_50Agree.txt
-├── LICENSE
-├── README.md
-└── requirements.txt
-
----
-
 ## Key Features
 - **In-depth Data Analysis:** Explored data distribution and key vocabulary patterns for each sentiment class.
 - **Advanced Text Preprocessing:** Implemented various pipelines including tokenization, stemming, and stop-word removal.
