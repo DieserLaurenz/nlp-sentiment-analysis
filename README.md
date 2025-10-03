@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 4️⃣ Launch the Jupyter Notebook
 ```bash
-jupyter notebook 0_Project1_2_Gilbert_Sahitaj.ipynb
+jupyter notebook Project1_Gilbert_Sahitaj.ipynb
 ```
 
 ---
